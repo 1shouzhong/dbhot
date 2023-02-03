@@ -1,0 +1,3 @@
+".\Objects\lesson1_3.obj" 
+TO ".\Objects\lesson1_3" 
+PRINT(".\Listings\lesson1_3.m51") RAMSIZE(256) 
